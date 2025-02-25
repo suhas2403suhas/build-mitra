@@ -10,4 +10,4 @@ yarn.lock
 .idea/
 .vscode/
 coverage/
-config/serviceAccountKey
+config/serviceAccountKey.json
